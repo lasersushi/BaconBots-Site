@@ -150,7 +150,7 @@ p { margin: 0 0 1em; }
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  height: 72px;
+  height: 140px;
 }
 
 .brand {
@@ -163,7 +163,7 @@ p { margin: 0 0 1em; }
   color: var(--bacon-brown);
 }
 .brand:hover { color: var(--bacon-red); }
-.brand img { width: 72px; height: 72px; }
+.brand img { width: 120px; height: 120px; }
 
 .nav-links {
   display: flex;
