@@ -163,7 +163,7 @@ p { margin: 0 0 1em; }
   color: var(--bacon-brown);
 }
 .brand:hover { color: var(--bacon-red); }
-.brand img { width: 36px; height: 36px; }
+.brand img { width: 72px; height: 72px; }
 
 .nav-links {
   display: flex;
