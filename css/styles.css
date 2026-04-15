@@ -405,6 +405,10 @@ body.nav-open .nav-toggle .icon-close { display: block; }
   gap: 24px;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
+.card-grid--compact {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 340px));
+  justify-content: center;
+}
 
 .card {
   background: var(--cream);
