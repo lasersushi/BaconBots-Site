@@ -163,7 +163,7 @@ p { margin: 0 0 1em; }
   color: var(--bacon-brown);
 }
 .brand:hover { color: var(--bacon-red); }
-.brand img { width: 120px; height: 120px; }
+.brand img { width: 220px; height: 220px; }
 
 .nav-links {
   display: flex;
@@ -329,7 +329,7 @@ body.nav-open .nav-toggle .icon-close { display: block; }
 .hero-art {
   position: relative;
   aspect-ratio: 1 / 1;
-  max-width: 680px;
+  max-width: 960px;
   justify-self: center;
   width: 100%;
   display: flex;
@@ -337,8 +337,8 @@ body.nav-open .nav-toggle .icon-close { display: block; }
   justify-content: center;
 }
 .hero-art img {
-  width: 115%;
-  height: 115%;
+  width: 135%;
+  height: 135%;
   object-fit: contain;
   animation: float 6s ease-in-out infinite alternate;
 }
@@ -927,7 +927,7 @@ body.nav-open .nav-toggle .icon-close { display: block; }
   font-size: 1.1rem;
   margin-bottom: 12px;
 }
-.footer-brand img { width: 36px; height: 36px; }
+.footer-brand img { width: 80px; height: 80px; }
 
 .footer-bottom {
   margin-top: 40px;
