@@ -781,13 +781,13 @@ body.nav-open .nav-toggle .icon-close { display: block; }
 .cta-banner .btn--primary:hover { background: #fff; color: var(--bacon-red); }
 .cta-banner__logo {
   display: block;
-  width: clamp(170px, 26vw, 240px);
+  width: clamp(255px, 39vw, 360px);
   height: auto;
-  margin: 0 0 20px;
-  border-radius: 16px;
+  margin: 0 0 28px;
+  border-radius: 20px;
   background: var(--cream);
-  padding: 14px;
-  box-shadow: 0 10px 28px rgba(0,0,0,.22);
+  padding: 20px;
+  box-shadow: 0 12px 32px rgba(0,0,0,.24);
 }
 
 /* =========================================================
