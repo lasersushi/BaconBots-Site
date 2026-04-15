@@ -779,6 +779,16 @@ body.nav-open .nav-toggle .icon-close { display: block; }
   box-shadow: 0 6px 18px rgba(0,0,0,.18);
 }
 .cta-banner .btn--primary:hover { background: #fff; color: var(--bacon-red); }
+.cta-banner__logo {
+  display: block;
+  width: 72px;
+  height: auto;
+  margin: 0 0 14px;
+  border-radius: 12px;
+  background: var(--cream);
+  padding: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
 
 /* =========================================================
    Footer
