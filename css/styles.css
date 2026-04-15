@@ -406,7 +406,7 @@ body.nav-open .nav-toggle .icon-close { display: block; }
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 .card-grid--compact {
-  grid-template-columns: repeat(auto-fit, minmax(260px, 340px));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 540px));
   justify-content: center;
 }
 
