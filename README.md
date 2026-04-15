@@ -33,7 +33,6 @@ The site ships with clearly-marked placeholder content. To make it yours, search
 
 | Placeholder              | Replace with                            |
 | ------------------------ | --------------------------------------- |
-| `Team #XXXX`             | Your real FTC team number               |
 | `20XX`                   | Real season years on robots page        |
 | Member names + bios      | In `about.html` — student & mentor tiles |
 | Robot names + specs      | In `robots.html` — robot tiles          |
